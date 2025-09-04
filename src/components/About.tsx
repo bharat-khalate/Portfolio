@@ -56,15 +56,20 @@ export const About = () => {
             <CardContent className="space-y-4">
               <div>
                 <h4 className="font-semibold">Techbulls Softech Pvt. Ltd.</h4>
-                <p className="text-accent font-medium">Software Developer Intern</p>
-                <p className="text-sm text-muted-foreground">Feb 2025 – Present</p>
+                <p className="text-accent font-medium">Software Developer </p>
+                <p className="text-sm text-muted-foreground">Feb 2025 – Jul-2025</p>
                 <p className="text-sm mt-2">Contributing to backend and frontend features using Spring Boot and React.</p>
               </div>
               <div>
                 <h4 className="font-semibold">Eagle Software Solution Ltd.</h4>
-                <p className="text-accent font-medium">Web Developer Intern</p>
+                <p className="text-accent font-medium">Web Developer </p>
                 <p className="text-sm text-muted-foreground">Jun 2024 – Sep 2024</p>
                 <p className="text-sm mt-2">Built and deployed MERN stack apps with MySQL DB schemas.</p>
+              </div>
+               <div>
+                <h4 className="font-semibold">LeadSoft It Solutions.</h4>
+                <p className="text-accent font-medium">FullStack Developer </p>
+                <p className="text-sm text-muted-foreground">Aug 2023 – Sep 2023</p>
               </div>
             </CardContent>
           </Card>
