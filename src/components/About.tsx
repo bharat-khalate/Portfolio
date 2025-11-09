@@ -4,8 +4,8 @@ import { GraduationCap, Award, Building } from "lucide-react";
 
 export const About = () => {
   const skills = [
-    { category: "Languages", items: ["Java", "JavaScript", "TypeScript", "Dart", "SQL", "HTML", "CSS"] },
-    { category: "Frameworks", items: ["React.js", "Spring Boot", "Express.js", "Flutter"] },
+    { category: "Languages", items: ["Java", "JavaScript", "TypeScript", "Dart","PHP", "SQL", "HTML", "CSS"] },
+    { category: "Frameworks", items: ["React.js", "Spring Boot", "Express.js", "Flutter", "Laravel"] },
     { category: "Databases", items: ["PostgreSQL", "MySQL"] },
     { category: "Tools", items: ["Git", "Docker", "Kafka", "Redis"] },
     { category: "ORMs", items: ["Spring Data JPA", "MyBatis", "Prisma"] }
