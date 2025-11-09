@@ -19,7 +19,7 @@ export const Hero = () => {
             Software Developer Engineer - I
           </p>
           <p className="text-lg max-w-2xl mx-auto text-muted-foreground leading-relaxed">
-            Final-year B.Tech CSE student and current SDE Intern at Techbulls Softech Pvt. Ltd., 
+            2025 B.Tech CSE Graduate with 12+ months of internship expereince, 
             passionate about building scalable and meaningful tech solutions.
           </p>
         </div>
